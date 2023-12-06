@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Higor Montoni
 
 - 📚 Cursando o 2° semestre de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Robot Framework 
 - 😄 Pronouns: ele/dele
 
 
