@@ -42,6 +42,9 @@
 - 🇺🇸 Nível Intermediário
 - 🇧🇷 Língua Nativa
 
+&nbsp;
+&nbsp;
+
 ## Contacts:
 
 <div> 
