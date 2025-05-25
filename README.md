@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Higor Montoni
 
-- 📚 Cursando o 4° semestre de Análise e Desenvolvimento de Sistemas
+- 📚 Cursando o 5° semestre de Análise e Desenvolvimento de Sistemas
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=higormontoni&theme=radical&mode=weekly" />
@@ -42,7 +42,7 @@
 
 ## Languages
 
-- 🇺🇸 Nível Intermediário
+- 🇺🇸 Nível Avançado
 - 🇪🇸 Nível Intermediário
 - 🇧🇷 Língua Nativa
 
